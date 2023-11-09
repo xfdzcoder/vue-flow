@@ -1,5 +1,12 @@
 # @vue-flow/background
 
+## 2.0.0-next.0
+
+### Patch Changes
+
+- Updated dependencies [[`c89190c`](https://github.com/bcakmakoglu/vue-flow/commit/c89190cc1cc690db1b0a97e8c195464b21c3226f), [`8e4ef50`](https://github.com/bcakmakoglu/vue-flow/commit/8e4ef50c21a7c21ce9e0bf786b0d9457faeea616), [`fccea17`](https://github.com/bcakmakoglu/vue-flow/commit/fccea178688550ee95044266079604227fd0ef6f)]:
+  - @vue-flow/core@2.0.0-next.0
+
 ## 1.2.0
 
 ### Minor Changes
